@@ -1,10 +1,10 @@
 <?php
 
-    $ManagerID=50; //50 id Чубыкина София Константиновна Менеджер для планироания задачи
+    $ManagerID=550; //50 id Чубыкина София Константиновна Менеджер для планироания задачи
     $EventType=1004; //1004 id цели созвониться
     $SourceId=253; //253 id Источник Привлечения Лендинг
     $PositionID=50; //50 id Должности ЛПР при необходимости поставить другую
-    $user_pass = "info@t-kartika.ru:ma0eh12k";
+    $user_pass = "kardexpress22@yandex.ru:ma0eh12k";
     $host_api = "https://kardexpress22.mawisoft.ru";
     $UserName = $_POST['user-name'];
     $UserPhone = $_POST['phone-number'];
